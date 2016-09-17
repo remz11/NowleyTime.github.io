@@ -90,10 +90,10 @@ h1 a {
 }
 li a {
    text-decoration: none;
-   background-color: #7E64A6;
-   color: black;
+   background-color: black;
+   color: white;
    padding: 5px;
-   border-radius: 10px;
+   border-radius: 2px;
    
 
 
@@ -101,9 +101,9 @@ li a {
 li a:hover{
    text-decoration: none;
    background-color: black;
-   color: white;
+   color: yellow;
    padding: 5px;
-   border-radius: 10px;
+   border-radius: 2px;
 
 
 
