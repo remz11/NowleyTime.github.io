@@ -42,7 +42,7 @@
     border-radius: 38em;
     box-shadow: 5px 5px 5px black;
     border: 3px solid black;
-    background-color: blue;
+    background-color: #B6FFB3;
     height: 15.625em;
     width: 15.625em;
     color: black;
@@ -68,13 +68,43 @@
     margin-top: 3.125em;	
     margin-left: 1.875em;
 }
+.menu2:hover {
 
+    list-style-type: none;
+    border-radius: 38em;
+    box-shadow: 5px 5px 5px black;
+    border: 3px solid black;
+    background-color: #FFF959;
+    height: 15.625em;
+    width: 15.625em;
+    color: black;
+    text-align: center;
+    padding: 0px 20px 20px 20px;
+    float: left;
+    margin-top: 3.125em;	
+    margin-left: 1.875em;
+}
 .menu3 {
     list-style-type: none;
     border-radius: 38em;
     box-shadow: 5px 5px 5px black;
     border: 3px solid black;
     background-color: red;
+    height: 15.625em;
+    width: 15.625em;
+    color: black;
+    text-align: center;
+    padding: 0px 20px 20px 20px;
+    float: left;
+    margin-top: 3.125em;	
+    margin-left: 1.875em;
+}
+.menu3:hover {
+    list-style-type: none;
+    border-radius: 38em;
+    box-shadow: 5px 5px 5px black;
+    border: 3px solid black;
+    background-color: #FF9C8C;
     height: 15.625em;
     width: 15.625em;
     color: black;
