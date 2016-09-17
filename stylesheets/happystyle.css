@@ -69,6 +69,24 @@
     margin-top: 3.125em;	
     margin-left: 1.875em;
 }
+.submenu {
+     
+     float: left;
+     visibility: hidden;
+     color: black;
+     border: 3px solid black;
+     box-shadow: 5px 5px 5px black;
+     height: 30em;
+     width: 9.7em;
+     border-radius: 10px;	
+     margin: auto;
+     text-align: left;
+     font-family: sans-serif;
+
+}
+.submenu:hover {
+     visibility: visible;
+}
 
 
 .separator{
@@ -102,22 +120,28 @@ h2 a {
    margin: auto;
 }
 
-
+.center { 
+   height: 0.625em;
+   width: 72em;
+   display: block;
+   margin: 500px,20em,20em,20em;
+}
 li a {
    text-decoration: none;
-   background-color: black;
+   background-color: none;
    color: white;
-   padding: 5px;
-   border-radius: 7px;
+   padding: none;
+   font-size: 1em
+   border-radius: none;
 }
 
 
 li a:hover{
    text-decoration: none;
-   background-color: yellow;
+   background-color: none;
    color: black;
-   padding: 5px;
-   border-radius: 7px;
+   padding: none;
+   border-radius: none;
 }
 
 
