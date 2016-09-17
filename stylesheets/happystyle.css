@@ -74,6 +74,12 @@
 
 
 }
+h1 a {
+   text-decoration: none;
+   color: white;
+
+
+}
 .box {
    height: 500px;
    width: 70em;
