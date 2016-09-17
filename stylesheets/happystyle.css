@@ -124,7 +124,7 @@ h2 a {
 .center { 
    height: 60em;
    width: 72em;
-   margin: 0em 0em 0em 10em;
+   margin: 0em 0em 0em 0em;
 }
 li a {
    text-decoration: none;
