@@ -24,8 +24,8 @@
     text-align: center;
     padding: 0px 20px 20px 20px;
     float: left;
-    margin-top: 50px;	
-    margin-left: 30px;
+    margin-top: 3.125em;	
+    margin-left: 1.875em;
 }
 .menu2 {
 
@@ -40,8 +40,8 @@
     text-align: center;
     padding: 0px 20px 20px 20px;
     float: left;
-    margin-top: 50px;	
-    margin-left: 30px;
+    margin-top: 3.125em;	
+    margin-left: 1.875em;
 }
 
 .menu3 {
@@ -56,8 +56,8 @@
     text-align: center;
     padding: 0px 20px 20px 20px;
     float: left;
-    margin-top: 50px;	
-    margin-left: 30px;
+    margin-top: 3.125em;	
+    margin-left: 1.875em;
 }
 
 
@@ -78,8 +78,8 @@ h1 a {
 
 
 .box {
-   height: 10px;
-   width: 70em;
+   height: 0.625em;
+   width: 71em;
    display: block;
 }
 
