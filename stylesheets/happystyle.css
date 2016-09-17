@@ -76,10 +76,9 @@
     display: block;
     float: left;
 }
-h1.header2 a{
-     text-decoration: none;
+a.header2{
+     
      color:black;
-     padding-top:10px;
      
 }
 
