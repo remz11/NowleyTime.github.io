@@ -87,7 +87,12 @@ h1 a {
    color: white;
    padding-top: 10px;
 }
-
+h2 a {
+   text-decoration: none;
+   color: black;
+   font-size: 2em;
+   padding-top: 10px;
+}
 
 .box {
    height: 0.625em;
