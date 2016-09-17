@@ -24,7 +24,7 @@
     text-align: center;
     padding: 0px 20px 20px 20px;
     float: left;
-    margin-top: 500px;	
+    margin-top: 50px;	
     margin-left: 30px;
 
 }
@@ -94,7 +94,7 @@ li a {
    color: white;
    padding: 5px;
    border-radius: 7px;
-   
+   margin: auto;
 
 
 }
@@ -104,7 +104,7 @@ li a:hover{
    color: black;
    padding: 5px;
    border-radius: 7px;
-
+   margin:auto;
 
 
 }
