@@ -20,7 +20,7 @@
     background-color: yellow;
     height: 15.625em;
     width: 15.625em;
-    color: white;
+    color: black;
     text-align: center;
     padding: 0px 20px 20px 20px;
     float: left;
@@ -69,8 +69,8 @@
 
 }
 .separator{
-    height: 120px;
-    width: 120px;
+    height: 8em;
+    width: 8em;
     display: block;
     float: left;
 
