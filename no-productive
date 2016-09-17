@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <title>Just for Fun</title>
+   <link href="stylesheets/happystyle.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+
+<div align="center">
+<script type="text/javascript">
+    google_ad_client = "ca-pub-9647651028985649";
+    google_ad_slot = "5832793730";
+    google_ad_width = 728;
+    google_ad_height = 90;
+</script>
+<!-- up -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<br>
+<h1 class="header"><a href="index">Entertain Yourself!</a></h1>
+<div class="separator">
+<h1 class="header" style="background-color:#15F609"><a href="no-productive">No-Productive</a> </h1>
+</body>
+</html>
