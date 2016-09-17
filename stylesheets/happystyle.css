@@ -1,7 +1,9 @@
 .header {
     
      color: #E6441C;
-     background-color: black;
+     background-color: green;
+     height: 75px;
+     width: 600px;
      border-radius: 10px;	
      margin: auto 330px;
      text-align: center;
@@ -12,6 +14,8 @@
     list-style-type: none;
     border-radius: 10px;
     background-color: black;
+    height: 400px;
+    width: 150px;
     color: white;
     text-align: center;
     padding: 0px 20px 20px 20px;
@@ -52,4 +56,4 @@ li a:hover{
 }
 body {
      margin: 0;
-     background-color: #5B6961;
+background-color: #5B6961;
