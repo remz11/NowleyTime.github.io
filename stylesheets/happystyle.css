@@ -63,7 +63,7 @@
 
 .separator{
     height: 8em;
-    width: 8em;
+    width: 9em;
     display: block;
     float: left;
     background-color: blue;
@@ -79,7 +79,7 @@ h1 a {
 
 .box {
    height: 0.625em;
-   width: 71em;
+   width: 72em;
    display: block;
 }
 
