@@ -154,7 +154,7 @@ li a {
    background-color: white;
    border: 2px solid black;
    color: black;
-   padding: none;
+   padding: 0.5em;
    font-size: 1em
    border-radius: 1em;
 }
@@ -165,7 +165,7 @@ li a:hover{
    background-color: blue;
    color: white;
    border: 2px solid black;
-   padding: none;
+   padding: 0.5em;
    border-radius: 1em;
 }
 
