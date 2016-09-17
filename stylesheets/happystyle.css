@@ -156,16 +156,17 @@ li a {
    color: black;
    padding: none;
    font-size: 1em
-   border-radius: none;
+   border-radius: 1em;
 }
 
 
 li a:hover{
    text-decoration: none;
-   background-color: none;
-   color: black;
+   background-color: blue;
+   color: white;
+   border: 2px solid black;
    padding: none;
-   border-radius: none;
+   border-radius: 1em;
 }
 
 
