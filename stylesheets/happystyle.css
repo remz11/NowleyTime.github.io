@@ -87,21 +87,11 @@
 .submenu:hover {
      visibility: visible;
 }
-
-
-.separator{
-    height: 8em;
-    width: 12em;
-    display: block;
-    float: left;
-    background-color: yellow;
+.center { 
+   height: 60em;
+   width: 72em;
+   margin: 0em 0em 0em 7em;
 }
-a.header2{
-     
-     color:black;
-     
-}
-
 h1 a {
    text-decoration: none;
    color: white;
@@ -114,18 +104,7 @@ h2 a {
    padding-top: 10px;
 }
 
-.box {
-   height: 0.625em;
-   width: 72em;
-   display: block;
-   margin: auto;
-}
 
-.center { 
-   height: 60em;
-   width: 72em;
-   margin: 0em 0em 0em 0em;
-}
 li a {
    text-decoration: none;
    background-color: none;
