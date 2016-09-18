@@ -1,177 +1,88 @@
-.header {
-     color: white;
-     list-style-type: none;
-     text-decoration: none;
-     background-color: blue;
-     border: 3px solid black;
-     box-shadow: 5px 5px 5px black;
-     height: 2em;
-     width: 25em;
-     border-radius: 10px;	
-     margin: auto;
-     text-align: center;
-     font-family: sans-serif;
-}
-.header2 {
-     background-color: yellow;
-     color: black;
-     border: 3px solid black;
-     box-shadow: 5px 5px 5px black;
-     height: 2em;
-     width: 25em;
-     border-radius: 10px;	
-     margin: auto;
-     text-align: center;
-     font-family: sans-serif;
-}
-.menu1 {
-    list-style-type: none;
-    border-radius: 38em;
-    box-shadow: 5px 5px 5px black;
-    border: 3px solid black;
-    background-color: #15F609;
-    height: 15.625em;
-    width: 15.625em;
-    color: black;
-    text-align: center;
-    padding: 0px 20px 20px 20px;
-    float: left;
-    margin-top: 3.125em;	
-    margin-left: 1.875em;
-}
-.menu1:hover{
-    list-style-type: none;
-    border-radius: 38em;
-    box-shadow: 5px 5px 5px black;
-    border: 3px solid black;
-    background-color: #B6FFB3;
-    height: 15.625em;
-    width: 15.625em;
-    color: black;
-    text-align: center;
-    padding: 0px 20px 20px 20px;
-    float: left;
-    margin-top: 3.125em;	
-    margin-left: 1.875em;
-}
-.menu2 {
+<!DOCTYPE html>
+<html>
 
-    list-style-type: none;
-    border-radius: 38em;
-    box-shadow: 5px 5px 5px black;
-    border: 3px solid black;
-    background-color: yellow;
-    height: 15.625em;
-    width: 15.625em;
-    color: black;
-    text-align: center;
-    padding: 0px 20px 20px 20px;
-    float: left;
-    margin-top: 3.125em;	
-    margin-left: 1.875em;
-}
-.menu2:hover {
+<head>
+   <title>Just for Fun</title>
+   <link href="stylesheets/happystyle.css" rel="stylesheet" type="text/css">
 
-    list-style-type: none;
-    border-radius: 38em;
-    box-shadow: 5px 5px 5px black;
-    border: 3px solid black;
-    background-color: #FFFD9E;
-    height: 15.625em;
-    width: 15.625em;
-    color: black;
-    text-align: center;
-    padding: 0px 20px 20px 20px;
-    float: left;
-    margin-top: 3.125em;	
-    margin-left: 1.875em;
-}
-.menu3 {
-    list-style-type: none;
-    border-radius: 38em;
-    box-shadow: 5px 5px 5px black;
-    border: 3px solid black;
-    background-color: red;
-    height: 15.625em;
-    width: 15.625em;
-    color: black;
-    text-align: center;
-    padding: 0px 20px 20px 20px;
-    float: left;
-    margin-top: 3.125em;	
-    margin-left: 5.875em;
-}
-.menu3:hover {
-    list-style-type: none;
-    border-radius: 38em;
-    box-shadow: 5px 5px 5px black;
-    border: 3px solid black;
-    background-color: #FF6952;
-    height: 15.625em;
-    width: 15.625em;
-    color: black;
-    text-align: center;
-    padding: 0px 20px 20px 20px;
-    float: left;
-    margin-top: 3.125em;	
-    margin-left: 5.875em;
-}
-.submenu {
-     list-style-type: none;
-     float: left;
-     visibility: hidden;
-     color: black;
-     border: 3px solid black;
-     box-shadow: 5px 5px 5px black;
-     height: 30em;
-     width: 9.7em;
-     border-radius: 10px;	
-     margin: auto;
-     text-align: left;
-     font-family: sans-serif;
+</head>
 
-}
-.submenu:hover {
-     visibility: visible;
-}
-.center { 
-   height: 60em;
-   width: 72em;
-   margin: 0em 0em 0em 5em;
-}
-.header a {
-   text-decoration: none;
-   padding-top: 10px;
-}
-h2 a {
-   text-decoration: none;
-   font-size: 1.5em;
-   color:black;
-   padding-top: 10px;
-}
+<body>
+<div class="center">
+<div align="center">
+<script type="text/javascript">
+    google_ad_client = "ca-pub-9647651028985649";
+    google_ad_slot = "5832793730";
+    google_ad_width = 728;
+    google_ad_height = 90;
+</script>
+<!-- up -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<br>
+<a href="index">
+<h1 class="header">Entertain Yourself!</h1>
+</a>
+<a href="no-productive">
+<h2 class="header" style="background-color:red">No-Productive</h2>
+</a>
 
-li a {
-   text-decoration: none;
-   background-color: white;
-   border: 2px solid black;
-   color: black;
-   padding: 0.5em;
-   font-size: 1em;
-   border-radius: 2em;
-}
-
-
-li a:hover{
-   text-decoration: none;
-   background-color: #64A6E8;
-   color: white;
-   border: 2px solid black;
-   padding: 0.5em;
-   border-radius: 2em;
-}
-
-
-body {
-     margin: 0;
-     background-color: #5B6961;
-}
+<ul class="submenu" style="background-color:#B40404;margin-left:17em">
+	<a style="visibility:visible;font-size:2em">Games</a>
+	<div align="center" style="margin-right:2em">
+        <br> </br>
+        <br> </br>
+	<li> <a href=""> Online </a></li>
+        <br> </br>
+	<li> <a href="">No-Download</a></li>
+        <br> </br>
+	<li> <a href=""> Download</a></li>
+        <br> </br>
+	<li> <a href=""> Rpg</a></li>
+        <br> </br>
+	<li> <a href=""> Strategy</a></li>
+        <br> </br>
+	<li> <a href=""> Shooters</a></li>
+        <br> </br>
+	</div>
+</ul> 
+<ul class="submenu" style="background-color:#8A0829">
+	
+	<a style="visibility:visible;font-size:2em;">Films</a>
+	<div align="center" style="margin-right:2em">
+        <br> </br>
+        <br> </br>
+	<li> <a href=""> Series </a></li>
+        <br> </br>
+	<li> <a href=""> Films </a></li>
+        <br> </br>
+	<li> <a href=""> Fonts </a></li>
+        <br> </br>
+	</div>
+</ul> 
+<ul class="submenu" style="background-color:#0B615E">
+	
+	<a style="visibility:visible;font-size:2em;">Videos</a>
+<div align="center" style="margin-right:2em">
+        <br> </br>
+        <br> </br>
+	<li> <a href=""> Gameplays </a></li>
+        <br> </br>
+	<li> <a href=""> Fails </a></li>
+        <br> </br>
+	<li> <a href=""> Tops 10 </a></li>
+        <br> </br>
+	<li> <a href=""> Comedy </a></li>
+        <br> </br>
+	<li> <a href=""> Video Blogs</a></li>
+        <br> </br>
+	<li> <a href=""> Science </a></li>
+        <br> </br>
+	</div>
+</ul> 
+</div>
+       
+</body>
+</html>
