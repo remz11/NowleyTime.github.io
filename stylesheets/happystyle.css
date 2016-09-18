@@ -141,7 +141,18 @@
 }
 .header a {
    text-decoration: none;
-   padding-top: 10px;
+   color: white;
+     list-style-type: none;
+     text-decoration: none;
+     background-color: blue;
+     border: 3px solid black;
+     box-shadow: 5px 5px 5px black;
+     height: 2em;
+     width: 25em;
+     border-radius: 10px;	
+     margin: auto;
+     text-align: center;
+     font-family: sans-serif;
 }
 h2 a {
    text-decoration: none;
